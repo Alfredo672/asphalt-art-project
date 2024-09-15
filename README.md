@@ -24,12 +24,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - In my asphalt art project I decided to make the flag of the United States. This project was pretty challenging but at the same time fun because I got to make an image appear threw code.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things about my project that I´m proud of is being able to make a blue square with white inside of it to make it look like stars which came out pretty good. I´m also proud of being able to code a flag and making the project run smooth.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Something I would like to improve is making sure I understand how to make new methods and asking my teacher for help. Since I didn´t understand the code that much I was only able to make a simple design. Hopefully I can make a more complex image.
