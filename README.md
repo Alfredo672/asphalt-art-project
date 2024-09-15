@@ -24,7 +24,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - In my asphalt art project I decided to make the flag of the United States. This project was pretty challenging but at the same time fun because I got to make an image appear threw code.
+   - In my asphalt art project I decided to make the flag of the United States. This project was pretty challenging but at the same time fun because I got to make an image appear through code.
 
 2. What are two things about your project that you are proud of?
 
